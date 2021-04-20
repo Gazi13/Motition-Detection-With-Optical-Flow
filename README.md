@@ -6,7 +6,7 @@
 <center><h2> Result </h2> </center>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=X9WP686YMhk"><img src="imgs/result.gif" /><a>
+  <a href="https://youtu.be/X9WP686YMhk"><img src="imgs/result.gif" /><a>
 </p>
 
 ### Problem definition
